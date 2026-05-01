@@ -37,7 +37,7 @@ trading_bot/
 ### 2. Clone & install
 
 ```bash
-git clone https://github.com/your-username/trading-bot.git
+git clone https://github.com/uday2001kumar/trading-bot-binance
 cd trading-bot
 
 python -m venv venv
